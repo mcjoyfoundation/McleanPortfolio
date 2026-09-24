@@ -1,88 +1,134 @@
+CURRICULUM VITAE
 CHRISTIAN GYAN AGYEKUM
-IT Professional & Creative Designer
-────────────────────────────────────────────────────────────────────────────────
-
-CONTACT INFORMATION
-Email: christiangyanagyekum@gmail.com
-Phone: 0241096942 / 0561888656 / 0504002693
-Location: Accra, Ghana
-Website: https://www.mcleanedge.com/
-
-SOCIAL MEDIA
-Instagram: @mclean_edge
-Facebook: @mclean_edge
-Twitter: @mclean__edge
-TikTok: @mclean_edge_studios
-YouTube: Mclean Edge Studios
-WhatsApp: +233 561888656
-
-────────────────────────────────────────────────────────────────────────────────
-
+Centre for Gender Research, Advocacy and Documentation
+University of Cape Coast
++233241096942 / +233504002693
+christiangyanagyekum@gmail.com
+linkedin.com/in/christiangyanagyekum
+Portfolio: Christian Gyan Agyekum - Portfolio
 PROFESSIONAL SUMMARY
-Highly motivated and detail-driven Computer Science professional with a strong foundation in technology, innovation, and a passion for addressing Gender-Based Issues. Skilled in Network Administration, Database Management, Cybersecurity, Machine Learning, and Adobe Office Suite, with experience in 3D Visualization, Web Design, Cinematography, and strong analytical and problem-solving skills. Seeking a challenging role in IT that utilizes my skills and experience to drive innovation and positive change.
-
-────────────────────────────────────────────────────────────────────────────────
-
-TECHNICAL SKILLS
-• Networking Administration (90%)
-• Database Management (85%)
-• Cybersecurity (80%)
-• Machine Learning (75%)
-
-CREATIVE SKILLS
-• 3D Visualization (95%)
-• Graphic Design (90%)
-• Web Design (Figma) (85%)
-• Cinematography (80%)
-
-────────────────────────────────────────────────────────────────────────────────
-
-PROFESSIONAL EXPERIENCE
-
-IT PROFESSIONAL & CREATIVE DESIGNER
-Freelance | Accra, Ghana
-• Developed robust and secure digital infrastructures through networking administration and database management
-• Created intelligent solutions using machine learning technologies
-• Produced stunning visual experiences through 3D visualization and cinematography
-• Designed engaging content for various digital platforms
-• Collaborated with diverse teams and clients, leveraging fluency in English, Twi, and Ga
-
-────────────────────────────────────────────────────────────────────────────────
-
-PORTFOLIO HIGHLIGHTS
-
-3D VISUALIZATION PROJECTS
-• 3D Architectural Visualization - Realistic rendering of modern office spaces
-• Product Visualization - 3D modeling and rendering for consumer products
-
-GRAPHIC DESIGN PROJECTS
-• Corporate Branding - Complete brand identity for tech startups
-• Event Poster Series - Promotional materials for music festivals
-
-WEB DESIGN PROJECTS
-• E-commerce Website - Fully responsive online store design
-• Portfolio Website - Creative showcase for photographers
-
-CONTENT CREATION PROJECTS
-• Social Media Campaigns - Engaging content for brand awareness
-• Digital Storytelling - Creative narratives for audience engagement
-
-────────────────────────────────────────────────────────────────────────────────
-
+Highly motivated and detail-driven Computer Science professional with a strong foundation in technology, innovation, and creative media. Skilled in Network Administration, Database Management, Cybersecurity, POS & Business Systems Development, Graphic Design, and Adobe Office Suite, with hands-on experience in Drone Piloting & Aerial Photography, 3D Visualization, Web Design, and Cinematography. Passionate about leveraging technology and visual storytelling to drive innovation and address Gender-Based Issues. Seeking a challenging role in IT that utilizes my multidisciplinary skills to drive innovation and positive change.
 EDUCATION
-
-BACHELOR OF SCIENCE IN COMPUTER SCIENCE
-University of Cape Coast (UCC), Ghana
-
-────────────────────────────────────────────────────────────────────────────────
-
-LANGUAGES
-• English (Fluent)
-• Twi (Fluent)
-
-────────────────────────────────────────────────────────────────────────────────
-
-KEY ACHIEVEMENTS
-• 5+ Years of Experience
-• 30+ Projects Completed
-• 15+ Happy Clients
+University of Cape Coast, Cape Coast
+2020 - 2024
+BSc. Computer Science
+Mpraeso Senior High School, Kwahu
+2016 - 2019
+General Science
+WORK EXPERIENCE
+IT Officer, Graphic Designer & Systems Developer
+DEMAK FASHION INDUSTRY, Cape Coast - UCC, Ghana
+March 2026
+- Serve as the in-house IT support and Graphic Designer for the brand.
+- Design all brand graphics, promotional materials, labels and social media visuals.
+- Built and manage DEMAK FASHION POS & Business Portal, a custom point-of-sale and business management system for sales, inventory and dress production tracking.
+- https://demak-fashion.vercel.app
+- Provide aerial photo/video coverage for promotional content using drone piloting skills.
+- Manage digital presence, business data and tech systems for the fashion house.
+IT Assistant (National Service)
+Centre for Gender Research, Advocacy and Documentation, University of Cape Coast, Ghana
+October 2024 – August 2025
+- Developed and implemented social media campaigns.
+- Created engaging photo and video content for advocacy programs.
+- Network Troubleshooting and Computer Diagnostics.
+- As a Gender Centre of the University of Cape Coast, I have been privileged to have access to Resources, Training, and Workshops in promoting Gender-Based Initiatives.
+- Served as a Peer Facilitator to the Centre.
+- Educated fresh students on issues of Sexual Harassment and avenues for reporting as well as ensured their General Wellbeing as students of UCC.
+- Research and Outreach.
+- General Administrative Work.
+Multimedia Specialists Assistant
+Design OX Studios, Accra, Ghana
+August 2024 – October 2024
+- Led videography and photography teams, capturing high-quality content for clients.
+- Created official content for Lazpamas Food Centre and Aye’s Bite, increasing brand engagement.
+- Assisted with web development and graphic design, improving website user experience and visual appeal.
+IT Assistant (Internship)
+Light TV and Vision 1 FM, Accra, Ghana
+September 2023 – December 2023
+- Assisted in rectifying and solving Hardware and Network issues.
+- Assisted with photography (Celebrity Hub).
+- Assisted in producing quality photographs of the Host and Guest after each show.
+3D Animator
+Obaa Yaa Estate (Kinnect LTD), Accra, Ghana
+June 2023
+- Created 3D models and animations for site plans and buildings, enhancing visualization and presentation.
+Founder
+McLean Edge Studios, Accra, Ghana
+March 2023 – Present
+- Built camera sales & peer-to-peer marketplace and creative services studio.
+- Provide photography, videography, web design, and 3D visualization.
+- Initiated Skill Share with McLean Edge – a team of volunteer instructors mentoring youth in Computer Basics, Online Safety, Coding, Web Design and Digital Creative Skills.
+- Focus on bridging the digital divide and empowering the girl child.
+- http://www.mcleanedge.com
+Creative Technician Assistant
+Child Savers International and Aged Heart Foundation, Accra, Ghana
+September 2022 – January 2023
+- Designed and developed imagery and UX/UI for internal/external communication projects, improving engagement and user experience.
+VOLUNTEER ACTIVITIES
+Media and Publicity Coordinator
+Aroma of Christ Youth Outreach, ACYO
+2021 – Present
+- Volunteered 5 years shooting conferences and youth programs.
+- Coordinated media team for photo, video and flyer.
+- Awarded Citation of Honour as Media and Publicity Coordinator (July, 2026).
+Photographer
+Executive Senators International School
+June 2026
+- Provided expert photography coverage for the official school delegation visit to the residence of former Ghanaian President, His Excellency John Agyekum Kufuor.
+- Documented high-profile interactions, official addresses, and group portraits for over 240 students and school executives, delivering high-quality visual assets for institutional media and PR use.
+Photographer
+Geographical Society UCC (GEOSOC)
+July 2025
+- Provided expert Photography service by capturing key departmental activities and events for the 2024-2025 administration.
+- Events included:
+  - GEOSOC Akwaaba Tour 2025
+  - Grand Matriculation Shoot 2025
+  - GEOSOC Journey to The West
+  - Educational Trip 2025
+  - GEOSOC Dinner and Awards Night 2025
+Assistant Invigilator
+University of Cape Coast
+April 2025
+- Assisted in invigilation duties during the End of First Semester Examination.
+- Assisted in maintaining a secure and fair examination environment.
+Media Team
+Change by Action Project
+March 2025
+- Assisted in producing Design Works.
+Coordinator
+Green Sprout Network
+December 2024
+- Guided young school children to actively contribute to environmental sustainability through flower gardening in their school environment.
+- Helped prevent erosion around the linear feet of school buildings.
+- Helped ignite environmentally friendly practices among young learners.
+AWARDS & RECOGNITION
+Citation of Honour, Media and Publicity Coordinator
+July 2026
+Aroma of Christ Youth Outreach, ACYO
+PROFESSIONAL MEMBERSHIPS
+Member, Animation Association of Ghana
+May 2025
+SKILLS
+Technical Skills
+- Drone Piloting
+- IT Support
+- Microsoft Office Suite
+Soft Skills
+- Web Design
+- Photography
+- Videography
+- 3D Modeling/Visualization
+- Graphics Design
+- Attention to detail
+- Teamwork
+- Good Communication Skills
+- Time management
+INTERESTS
+- Technology
+- Volunteerism
+- Innovation
+- Advocacy
+- Animation
+- Gender Based Violence
+REFERENCES
+Available upon request.
